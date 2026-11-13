@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["renova-r.r-universe.dev", "prettyR", "BBSSL", "SamplerCompare", "RSGHB", "plogr", "reactablefmtr"]
+  "repositories": ["renova-r.r-universe.dev", "prettyR", "BBSSL", "SamplerCompare", "RSGHB", "plogr", "reactablefmtr", "clv", "RSvgDevice", "JRF"]
 }

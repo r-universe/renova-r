@@ -1,0 +1,10 @@
+{
+  "id": 181471899,
+  "created_at": "2026-11-13T04:18:28.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["renova-r.r-universe.dev", "prettyR"]
+}

@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/renova-r/renova-r.r-universe.dev
 	branch = HEAD
+[submodule "prettyR"]
+	path = prettyR
+	url = https://github.com/renova-r/prettyR
+	branch = renova-2.2.3.9001

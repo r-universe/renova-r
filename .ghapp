@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["renova-r.r-universe.dev", "prettyR", "BBSSL", "SamplerCompare", "RSGHB", "plogr", "reactablefmtr", "clv", "RSvgDevice", "JRF"]
+  "repositories": ["renova-r.r-universe.dev", "prettyR", "BBSSL", "SamplerCompare", "RSGHB", "plogr", "reactablefmtr", "clv", "RSvgDevice", "JRF", "iRafNet", "TSdbi", "kdpee", "DDoutlier", "epistasis", "ooplah", "argon2", "PKPDmodels", "Vdgraph", "ivprobit", "mcc", "mixexp", "ExpDes.pt", "NPS", "Fahrmeir", "RaProR", "mbrglm", "normtest", "unbalanced", "jiebaRD", "genpwr", "biogram", "DynamicGP"]
 }

@@ -6,10 +6,34 @@
 	path = BBSSL
 	url = https://github.com/renova-r/BBSSL
 	branch = renova-0.1.0.9001
+[submodule "DDoutlier"]
+	path = DDoutlier
+	url = https://github.com/renova-r/DDoutlier
+	branch = renova-0.1.0.9001
+[submodule "DynamicGP"]
+	path = DynamicGP
+	url = https://github.com/renova-r/DynamicGP
+	branch = renova-1.1.9.9001
+[submodule "ExpDes.pt"]
+	path = ExpDes.pt
+	url = https://github.com/renova-r/ExpDes.pt
+	branch = renova-1.2.2.9001
+[submodule "Fahrmeir"]
+	path = Fahrmeir
+	url = https://github.com/renova-r/Fahrmeir
+	branch = renova-2016.5.31.9001
 [submodule "JRF"]
 	path = JRF
 	url = https://github.com/renova-r/JRF
 	branch = renova-0.1.4.9001
+[submodule "NPS"]
+	path = NPS
+	url = https://github.com/renova-r/NPS
+	branch = renova-1.1.9001
+[submodule "PKPDmodels"]
+	path = PKPDmodels
+	url = https://github.com/renova-r/PKPDmodels
+	branch = renova-0.3.2.9001
 [submodule "RSGHB"]
 	path = RSGHB
 	url = https://github.com/renova-r/RSGHB
@@ -18,14 +42,78 @@
 	path = RSvgDevice
 	url = https://github.com/renova-r/RSvgDevice
 	branch = renova-0.6.4.4.9001
+[submodule "RaProR"]
+	path = RaProR
+	url = https://github.com/renova-r/RaProR
+	branch = renova-1.1.5.9001
 [submodule "SamplerCompare"]
 	path = SamplerCompare
 	url = https://github.com/renova-r/SamplerCompare
 	branch = renova-1.3.4.9001
+[submodule "TSdbi"]
+	path = TSdbi
+	url = https://github.com/renova-r/TSdbi
+	branch = renova-2017.4.1.9001
+[submodule "Vdgraph"]
+	path = Vdgraph
+	url = https://github.com/renova-r/Vdgraph
+	branch = renova-2.2.7.9001
+[submodule "argon2"]
+	path = argon2
+	url = https://github.com/renova-r/argon2
+	branch = renova-0.4.0.9001
+[submodule "biogram"]
+	path = biogram
+	url = https://github.com/renova-r/biogram
+	branch = renova-1.6.3.9001
 [submodule "clv"]
 	path = clv
 	url = https://github.com/renova-r/clv
 	branch = renova-0.3.2.5.9001
+[submodule "epistasis"]
+	path = epistasis
+	url = https://github.com/renova-r/epistasis
+	branch = renova-0.0.1.1.9001
+[submodule "genpwr"]
+	path = genpwr
+	url = https://github.com/renova-r/genpwr
+	branch = renova-1.0.4.9001
+[submodule "iRafNet"]
+	path = iRafNet
+	url = https://github.com/renova-r/iRafNet
+	branch = renova-1.1.1.9001
+[submodule "ivprobit"]
+	path = ivprobit
+	url = https://github.com/renova-r/ivprobit
+	branch = renova-1.1.9001
+[submodule "jiebaRD"]
+	path = jiebaRD
+	url = https://github.com/renova-r/jiebaRD
+	branch = renova-0.1.9001
+[submodule "kdpee"]
+	path = kdpee
+	url = https://github.com/renova-r/kdpee
+	branch = renova-1.0.0.9001
+[submodule "mbrglm"]
+	path = mbrglm
+	url = https://github.com/renova-r/mbrglm
+	branch = renova-0.0.1.9001
+[submodule "mcc"]
+	path = mcc
+	url = https://github.com/renova-r/mcc
+	branch = renova-1.0.9001
+[submodule "mixexp"]
+	path = mixexp
+	url = https://github.com/renova-r/mixexp
+	branch = renova-1.2.7.1.9001
+[submodule "normtest"]
+	path = normtest
+	url = https://github.com/renova-r/normtest
+	branch = renova-1.1.9001
+[submodule "ooplah"]
+	path = ooplah
+	url = https://github.com/renova-r/ooplah
+	branch = renova-0.2.0.9001
 [submodule "plogr"]
 	path = plogr
 	url = https://github.com/renova-r/plogr
@@ -38,3 +126,7 @@
 	path = reactablefmtr
 	url = https://github.com/renova-r/reactablefmtr
 	branch = renova-2.0.0.9001
+[submodule "unbalanced"]
+	path = unbalanced
+	url = https://github.com/renova-r/unbalanced
+	branch = renova-2.0.9001

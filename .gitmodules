@@ -61,7 +61,7 @@
 [submodule "RSvgDevice"]
 	path = RSvgDevice
 	url = https://github.com/renova-r/RSvgDevice
-	branch = renova-0.6.4.4.9001
+	branch = renova-0.6.4.4.9002
 [submodule "RaProR"]
 	path = RaProR
 	url = https://github.com/renova-r/RaProR
@@ -109,7 +109,7 @@
 [submodule "effectFusion"]
 	path = effectFusion
 	url = https://github.com/renova-r/effectFusion
-	branch = renova-1.1.3.9001
+	branch = renova-1.1.3.9002
 [submodule "epistasis"]
 	path = epistasis
 	url = https://github.com/renova-r/epistasis
@@ -125,7 +125,7 @@
 [submodule "glpkAPI"]
 	path = glpkAPI
 	url = https://github.com/renova-r/glpkAPI
-	branch = renova-1.3.4.9001
+	branch = renova-1.3.4.9002
 [submodule "gpclib"]
 	path = gpclib
 	url = https://github.com/renova-r/gpclib
@@ -133,7 +133,7 @@
 [submodule "grr"]
 	path = grr
 	url = https://github.com/renova-r/grr
-	branch = renova-0.9.9001
+	branch = renova-0.9.9002
 [submodule "iRafNet"]
 	path = iRafNet
 	url = https://github.com/renova-r/iRafNet

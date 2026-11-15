@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/renova-r/renova-r.r-universe.dev
 	branch = HEAD
+[submodule "AMORE"]
+	path = AMORE
+	url = https://github.com/renova-r/AMORE
+	branch = renova-0.2.16.9001
 [submodule "BASIX"]
 	path = BASIX
 	url = https://github.com/renova-r/BASIX
@@ -10,6 +14,14 @@
 	path = BBSSL
 	url = https://github.com/renova-r/BBSSL
 	branch = renova-0.1.0.9001
+[submodule "BTYDplus"]
+	path = BTYDplus
+	url = https://github.com/renova-r/BTYDplus
+	branch = renova-1.2.0.9001
+[submodule "CreditMetrics"]
+	path = CreditMetrics
+	url = https://github.com/renova-r/CreditMetrics
+	branch = renova-0.0.2.9001
 [submodule "DDoutlier"]
 	path = DDoutlier
 	url = https://github.com/renova-r/DDoutlier
@@ -38,6 +50,10 @@
 	path = JRF
 	url = https://github.com/renova-r/JRF
 	branch = renova-0.1.4.9001
+[submodule "MBCluster.Seq"]
+	path = MBCluster.Seq
+	url = https://github.com/renova-r/MBCluster.Seq
+	branch = renova-1.0.9001
 [submodule "MultinomialCI"]
 	path = MultinomialCI
 	url = https://github.com/renova-r/MultinomialCI
@@ -58,6 +74,10 @@
 	path = PakPMICS2014Ch
 	url = https://github.com/renova-r/PakPMICS2014Ch
 	branch = renova-0.1.0.9001
+[submodule "PakPMICS2014HH"]
+	path = PakPMICS2014HH
+	url = https://github.com/renova-r/PakPMICS2014HH
+	branch = renova-0.1.0.9001
 [submodule "RSGHB"]
 	path = RSGHB
 	url = https://github.com/renova-r/RSGHB
@@ -70,6 +90,18 @@
 	path = RaProR
 	url = https://github.com/renova-r/RaProR
 	branch = renova-1.1.5.9001
+[submodule "Reliability"]
+	path = Reliability
+	url = https://github.com/renova-r/Reliability
+	branch = renova-0.0.2.9001
+[submodule "SEER2R"]
+	path = SEER2R
+	url = https://github.com/renova-r/SEER2R
+	branch = renova-1.0.9001
+[submodule "SLC"]
+	path = SLC
+	url = https://github.com/renova-r/SLC
+	branch = renova-0.3.9001
 [submodule "SamplerCompare"]
 	path = SamplerCompare
 	url = https://github.com/renova-r/SamplerCompare
@@ -106,6 +138,10 @@
 	path = argon2
 	url = https://github.com/renova-r/argon2
 	branch = renova-0.4.0.9001
+[submodule "ascentTraining"]
+	path = ascentTraining
+	url = https://github.com/renova-r/ascentTraining
+	branch = renova-1.0.0.9001
 [submodule "assertive.base"]
 	path = assertive.base
 	url = https://github.com/renova-r/assertive.base
@@ -122,6 +158,10 @@
 	path = biogram
 	url = https://github.com/renova-r/biogram
 	branch = renova-1.6.3.9001
+[submodule "cggd"]
+	path = cggd
+	url = https://github.com/renova-r/cggd
+	branch = renova-0.8.9001
 [submodule "clv"]
 	path = clv
 	url = https://github.com/renova-r/clv
@@ -186,6 +226,10 @@
 	path = het.test
 	url = https://github.com/renova-r/het.test
 	branch = renova-0.1.9001
+[submodule "hmeasure"]
+	path = hmeasure
+	url = https://github.com/renova-r/hmeasure
+	branch = renova-1.0.2.9001
 [submodule "hydrogeo"]
 	path = hydrogeo
 	url = https://github.com/renova-r/hydrogeo
@@ -194,6 +238,14 @@
 	path = iRafNet
 	url = https://github.com/renova-r/iRafNet
 	branch = renova-1.1.1.9001
+[submodule "infutil"]
+	path = infutil
+	url = https://github.com/renova-r/infutil
+	branch = renova-1.0.9001
+[submodule "iptools"]
+	path = iptools
+	url = https://github.com/renova-r/iptools
+	branch = renova-0.7.2.9001
 [submodule "ivprobit"]
 	path = ivprobit
 	url = https://github.com/renova-r/ivprobit
@@ -206,6 +258,10 @@
 	path = kdpee
 	url = https://github.com/renova-r/kdpee
 	branch = renova-1.0.0.9001
+[submodule "linLIR"]
+	path = linLIR
+	url = https://github.com/renova-r/linLIR
+	branch = renova-1.1.9001
 [submodule "mbrglm"]
 	path = mbrglm
 	url = https://github.com/renova-r/mbrglm
@@ -238,6 +294,10 @@
 	path = namedropR
 	url = https://github.com/renova-r/namedropR
 	branch = renova-2.4.1.9001
+[submodule "netcoh"]
+	path = netcoh
+	url = https://github.com/renova-r/netcoh
+	branch = renova-0.2.9001
 [submodule "nodeHarvest"]
 	path = nodeHarvest
 	url = https://github.com/renova-r/nodeHarvest
@@ -254,10 +314,18 @@
 	path = packer
 	url = https://github.com/renova-r/packer
 	branch = renova-0.1.3.9001
+[submodule "phaseR"]
+	path = phaseR
+	url = https://github.com/renova-r/phaseR
+	branch = renova-2.2.1.9001
 [submodule "plogr"]
 	path = plogr
 	url = https://github.com/renova-r/plogr
 	branch = renova-0.2.0.9001
+[submodule "plus"]
+	path = plus
+	url = https://github.com/renova-r/plus
+	branch = renova-1.0.9001
 [submodule "prettyR"]
 	path = prettyR
 	url = https://github.com/renova-r/prettyR
@@ -310,6 +378,10 @@
 	path = sdPrior
 	url = https://github.com/renova-r/sdPrior
 	branch = renova-1.0.0.9001
+[submodule "slickR"]
+	path = slickR
+	url = https://github.com/renova-r/slickR
+	branch = renova-0.6.0.9001
 [submodule "smoother"]
 	path = smoother
 	url = https://github.com/renova-r/smoother

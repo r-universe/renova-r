@@ -14,6 +14,10 @@
 	path = BBSSL
 	url = https://github.com/renova-r/BBSSL
 	branch = renova-0.1.0.9001
+[submodule "BHH2"]
+	path = BHH2
+	url = https://github.com/renova-r/BHH2
+	branch = renova-2016.5.31.9001
 [submodule "BTYDplus"]
 	path = BTYDplus
 	url = https://github.com/renova-r/BTYDplus
@@ -54,6 +58,10 @@
 	path = MBCluster.Seq
 	url = https://github.com/renova-r/MBCluster.Seq
 	branch = renova-1.0.9001
+[submodule "MRMR"]
+	path = MRMR
+	url = https://github.com/renova-r/MRMR
+	branch = renova-0.1.4.9001
 [submodule "MultinomialCI"]
 	path = MultinomialCI
 	url = https://github.com/renova-r/MultinomialCI
@@ -62,6 +70,10 @@
 	path = NPS
 	url = https://github.com/renova-r/NPS
 	branch = renova-1.1.9001
+[submodule "OpenMPController"]
+	path = OpenMPController
+	url = https://github.com/renova-r/OpenMPController
+	branch = renova-0.2.5.9001
 [submodule "PCICt"]
 	path = PCICt
 	url = https://github.com/renova-r/PCICt
@@ -330,6 +342,10 @@
 	path = prettyR
 	url = https://github.com/renova-r/prettyR
 	branch = renova-2.2.3.9002
+[submodule "pwr2"]
+	path = pwr2
+	url = https://github.com/renova-r/pwr2
+	branch = renova-1.0.9001
 [submodule "rdd"]
 	path = rdd
 	url = https://github.com/renova-r/rdd
@@ -410,3 +426,7 @@
 	path = vader
 	url = https://github.com/renova-r/vader
 	branch = renova-0.2.1.9001
+[submodule "veccompare"]
+	path = veccompare
+	url = https://github.com/renova-r/veccompare
+	branch = renova-0.1.0.9001

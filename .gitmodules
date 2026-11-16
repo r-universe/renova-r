@@ -10,6 +10,10 @@
 	path = BASIX
 	url = https://github.com/renova-r/BASIX
 	branch = renova-1.2.9001
+[submodule "BBMM"]
+	path = BBMM
+	url = https://github.com/renova-r/BBMM
+	branch = renova-3.0.9001
 [submodule "BBSSL"]
 	path = BBSSL
 	url = https://github.com/renova-r/BBSSL
@@ -42,6 +46,14 @@
 	path = DynamicGP
 	url = https://github.com/renova-r/DynamicGP
 	branch = renova-1.1.9.9001
+[submodule "EMVS"]
+	path = EMVS
+	url = https://github.com/renova-r/EMVS
+	branch = renova-1.2.1.9001
+[submodule "EcoVirtual"]
+	path = EcoVirtual
+	url = https://github.com/renova-r/EcoVirtual
+	branch = renova-1.1.9001
 [submodule "ExpDes.pt"]
 	path = ExpDes.pt
 	url = https://github.com/renova-r/ExpDes.pt
@@ -50,6 +62,14 @@
 	path = Fahrmeir
 	url = https://github.com/renova-r/Fahrmeir
 	branch = renova-2016.5.31.9001
+[submodule "GenKern"]
+	path = GenKern
+	url = https://github.com/renova-r/GenKern
+	branch = renova-1.2.60.9001
+[submodule "Interpol"]
+	path = Interpol
+	url = https://github.com/renova-r/Interpol
+	branch = renova-1.3.1.9001
 [submodule "JRF"]
 	path = JRF
 	url = https://github.com/renova-r/JRF
@@ -62,6 +82,10 @@
 	path = MRMR
 	url = https://github.com/renova-r/MRMR
 	branch = renova-0.1.4.9001
+[submodule "MVTests"]
+	path = MVTests
+	url = https://github.com/renova-r/MVTests
+	branch = renova-2.3.1.9001
 [submodule "MultinomialCI"]
 	path = MultinomialCI
 	url = https://github.com/renova-r/MultinomialCI
@@ -122,6 +146,10 @@
 	path = SummaryLasso
 	url = https://github.com/renova-r/SummaryLasso
 	branch = renova-1.2.1.9001
+[submodule "TESS"]
+	path = TESS
+	url = https://github.com/renova-r/TESS
+	branch = renova-2.1.2.9001
 [submodule "TSdbi"]
 	path = TSdbi
 	url = https://github.com/renova-r/TSdbi
@@ -178,6 +206,10 @@
 	path = clv
 	url = https://github.com/renova-r/clv
 	branch = renova-0.3.2.5.9001
+[submodule "colortools"]
+	path = colortools
+	url = https://github.com/renova-r/colortools
+	branch = renova-0.1.5.9001
 [submodule "datastepr"]
 	path = datastepr
 	url = https://github.com/renova-r/datastepr
@@ -270,10 +302,18 @@
 	path = kdpee
 	url = https://github.com/renova-r/kdpee
 	branch = renova-1.0.0.9001
+[submodule "laercio"]
+	path = laercio
+	url = https://github.com/renova-r/laercio
+	branch = renova-1.0.1.9001
 [submodule "linLIR"]
 	path = linLIR
 	url = https://github.com/renova-r/linLIR
 	branch = renova-1.1.9001
+[submodule "lvec"]
+	path = lvec
+	url = https://github.com/renova-r/lvec
+	branch = renova-0.2.5.9001
 [submodule "mbrglm"]
 	path = mbrglm
 	url = https://github.com/renova-r/mbrglm
@@ -378,6 +418,10 @@
 	path = rmda
 	url = https://github.com/renova-r/rmda
 	branch = renova-1.6.9001
+[submodule "rolypoly"]
+	path = rolypoly
+	url = https://github.com/renova-r/rolypoly
+	branch = renova-0.1.0.9001
 [submodule "rpatrec"]
 	path = rpatrec
 	url = https://github.com/renova-r/rpatrec
@@ -406,6 +450,10 @@
 	path = spanel
 	url = https://github.com/renova-r/spanel
 	branch = renova-0.1.9001
+[submodule "spi"]
+	path = spi
+	url = https://github.com/renova-r/spi
+	branch = renova-1.1.9001
 [submodule "survMisc"]
 	path = survMisc
 	url = https://github.com/renova-r/survMisc
@@ -430,3 +478,7 @@
 	path = veccompare
 	url = https://github.com/renova-r/veccompare
 	branch = renova-0.1.0.9001
+[submodule "vegetarian"]
+	path = vegetarian
+	url = https://github.com/renova-r/vegetarian
+	branch = renova-1.2.9001

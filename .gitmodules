@@ -93,7 +93,7 @@
 [submodule "MOSS"]
 	path = MOSS
 	url = https://github.com/renova-r/MOSS
-	branch = renova-0.2.2.9001
+	branch = renova-0.2.2.9002
 [submodule "MRMR"]
 	path = MRMR
 	url = https://github.com/renova-r/MRMR

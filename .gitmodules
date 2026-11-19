@@ -2,10 +2,22 @@
 	path = .registry
 	url = https://github.com/renova-r/renova-r.r-universe.dev
 	branch = HEAD
+[submodule "ALEPlot"]
+	path = ALEPlot
+	url = https://github.com/renova-r/ALEPlot
+	branch = renova-1.1.9001
+[submodule "ALSM"]
+	path = ALSM
+	url = https://github.com/renova-r/ALSM
+	branch = renova-0.2.0.9001
 [submodule "AMORE"]
 	path = AMORE
 	url = https://github.com/renova-r/AMORE
 	branch = renova-0.2.16.9002
+[submodule "AbSim"]
+	path = AbSim
+	url = https://github.com/renova-r/AbSim
+	branch = renova-0.2.6.9001
 [submodule "BASIX"]
 	path = BASIX
 	url = https://github.com/renova-r/BASIX
@@ -106,6 +118,14 @@
 	path = PKPDmodels
 	url = https://github.com/renova-r/PKPDmodels
 	branch = renova-0.3.2.9001
+[submodule "POUMM"]
+	path = POUMM
+	url = https://github.com/renova-r/POUMM
+	branch = renova-2.1.8.9001
+[submodule "PPtree"]
+	path = PPtree
+	url = https://github.com/renova-r/PPtree
+	branch = renova-2.3.0.9001
 [submodule "PakPMICS2014Ch"]
 	path = PakPMICS2014Ch
 	url = https://github.com/renova-r/PakPMICS2014Ch
@@ -114,6 +134,14 @@
 	path = PakPMICS2014HH
 	url = https://github.com/renova-r/PakPMICS2014HH
 	branch = renova-0.1.0.9001
+[submodule "QuasiSeq"]
+	path = QuasiSeq
+	url = https://github.com/renova-r/QuasiSeq
+	branch = renova-1.0.11.0.9001
+[submodule "RClone"]
+	path = RClone
+	url = https://github.com/renova-r/RClone
+	branch = renova-1.0.3.9001
 [submodule "RSGHB"]
 	path = RSGHB
 	url = https://github.com/renova-r/RSGHB
@@ -142,6 +170,10 @@
 	path = SamplerCompare
 	url = https://github.com/renova-r/SamplerCompare
 	branch = renova-1.3.4.9001
+[submodule "SparkR"]
+	path = SparkR
+	url = https://github.com/renova-r/SparkR
+	branch = renova-3.1.2.9001
 [submodule "SummaryLasso"]
 	path = SummaryLasso
 	url = https://github.com/renova-r/SummaryLasso
@@ -170,6 +202,10 @@
 	path = adaptMT
 	url = https://github.com/renova-r/adaptMT
 	branch = renova-1.0.0.9001
+[submodule "allan"]
+	path = allan
+	url = https://github.com/renova-r/allan
+	branch = renova-1.1.9001
 [submodule "allelic"]
 	path = allelic
 	url = https://github.com/renova-r/allelic
@@ -186,6 +222,14 @@
 	path = assertive.base
 	url = https://github.com/renova-r/assertive.base
 	branch = renova-0.0.9.9001
+[submodule "batade"]
+	path = batade
+	url = https://github.com/renova-r/batade
+	branch = renova-0.1.9001
+[submodule "bgmm"]
+	path = bgmm
+	url = https://github.com/renova-r/bgmm
+	branch = renova-1.8.5.9001
 [submodule "biclust"]
 	path = biclust
 	url = https://github.com/renova-r/biclust
@@ -202,6 +246,10 @@
 	path = cggd
 	url = https://github.com/renova-r/cggd
 	branch = renova-0.8.9001
+[submodule "clusteval"]
+	path = clusteval
+	url = https://github.com/renova-r/clusteval
+	branch = renova-0.1.9001
 [submodule "clv"]
 	path = clv
 	url = https://github.com/renova-r/clv
@@ -238,6 +286,10 @@
 	path = fastAdaboost
 	url = https://github.com/renova-r/fastAdaboost
 	branch = renova-1.0.0.9001
+[submodule "fgpt"]
+	path = fgpt
+	url = https://github.com/renova-r/fgpt
+	branch = renova-2.3.9001
 [submodule "fuzzyFDR"]
 	path = fuzzyFDR
 	url = https://github.com/renova-r/fuzzyFDR
@@ -266,6 +318,10 @@
 	path = grr
 	url = https://github.com/renova-r/grr
 	branch = renova-0.9.9002
+[submodule "heatmap.plus"]
+	path = heatmap.plus
+	url = https://github.com/renova-r/heatmap.plus
+	branch = renova-1.3.9001
 [submodule "het.test"]
 	path = het.test
 	url = https://github.com/renova-r/het.test
@@ -342,6 +398,10 @@
 	path = modelgrid
 	url = https://github.com/renova-r/modelgrid
 	branch = renova-1.2.0.9001
+[submodule "momr"]
+	path = momr
+	url = https://github.com/renova-r/momr
+	branch = renova-1.1.9001
 [submodule "namedropR"]
 	path = namedropR
 	url = https://github.com/renova-r/namedropR
@@ -410,6 +470,10 @@
 	path = rjmcmc
 	url = https://github.com/renova-r/rjmcmc
 	branch = renova-0.4.5.9001
+[submodule "rknn"]
+	path = rknn
+	url = https://github.com/renova-r/rknn
+	branch = renova-1.2.1.9001
 [submodule "rlme"]
 	path = rlme
 	url = https://github.com/renova-r/rlme
@@ -418,6 +482,10 @@
 	path = rmda
 	url = https://github.com/renova-r/rmda
 	branch = renova-1.6.9001
+[submodule "rnoaa"]
+	path = rnoaa
+	url = https://github.com/renova-r/rnoaa
+	branch = renova-1.4.0.9001
 [submodule "rolypoly"]
 	path = rolypoly
 	url = https://github.com/renova-r/rolypoly
@@ -430,14 +498,30 @@
 	path = rucm
 	url = https://github.com/renova-r/rucm
 	branch = renova-0.6.9001
+[submodule "rwt"]
+	path = rwt
+	url = https://github.com/renova-r/rwt
+	branch = renova-1.0.2.9001
 [submodule "sROC"]
 	path = sROC
 	url = https://github.com/renova-r/sROC
 	branch = renova-0.1.2.9001
+[submodule "sbioPN"]
+	path = sbioPN
+	url = https://github.com/renova-r/sbioPN
+	branch = renova-1.1.0.9001
+[submodule "scalreg"]
+	path = scalreg
+	url = https://github.com/renova-r/scalreg
+	branch = renova-1.0.1.9001
 [submodule "sdPrior"]
 	path = sdPrior
 	url = https://github.com/renova-r/sdPrior
 	branch = renova-1.0.0.9001
+[submodule "seqRFLP"]
+	path = seqRFLP
+	url = https://github.com/renova-r/seqRFLP
+	branch = renova-1.0.1.9001
 [submodule "slickR"]
 	path = slickR
 	url = https://github.com/renova-r/slickR

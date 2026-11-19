@@ -5,7 +5,7 @@
 [submodule "ALEPlot"]
 	path = ALEPlot
 	url = https://github.com/renova-r/ALEPlot
-	branch = renova-1.1.9001
+	branch = renova-1.1.9002
 [submodule "ALSM"]
 	path = ALSM
 	url = https://github.com/renova-r/ALSM
@@ -17,7 +17,7 @@
 [submodule "AbSim"]
 	path = AbSim
 	url = https://github.com/renova-r/AbSim
-	branch = renova-0.2.6.9001
+	branch = renova-0.2.6.9002
 [submodule "BASIX"]
 	path = BASIX
 	url = https://github.com/renova-r/BASIX

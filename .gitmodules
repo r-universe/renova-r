@@ -90,6 +90,10 @@
 	path = MBCluster.Seq
 	url = https://github.com/renova-r/MBCluster.Seq
 	branch = renova-1.0.9001
+[submodule "MOSS"]
+	path = MOSS
+	url = https://github.com/renova-r/MOSS
+	branch = renova-0.2.2.9001
 [submodule "MRMR"]
 	path = MRMR
 	url = https://github.com/renova-r/MRMR

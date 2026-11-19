@@ -145,7 +145,7 @@
 [submodule "RClone"]
 	path = RClone
 	url = https://github.com/renova-r/RClone
-	branch = renova-1.0.3.9001
+	branch = renova-1.0.3.9002
 [submodule "RSGHB"]
 	path = RSGHB
 	url = https://github.com/renova-r/RSGHB
@@ -177,7 +177,7 @@
 [submodule "SparkR"]
 	path = SparkR
 	url = https://github.com/renova-r/SparkR
-	branch = renova-3.1.2.9001
+	branch = renova-3.1.2.9002
 [submodule "SummaryLasso"]
 	path = SummaryLasso
 	url = https://github.com/renova-r/SummaryLasso
